@@ -2,6 +2,7 @@
 
 !.gitignore
 !readme.md
+!todo.md
 
 !Assets/
 !Assets/**/*
